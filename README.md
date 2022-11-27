@@ -1,6 +1,11 @@
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Prince 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Prince Hirapara</h1>
-<h3 align="center">A student of BCA</h3>
+<h3 align="center">A student of MCA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince089&label=Profile%20views&color=0e75b6&style=flat" alt="prince089" /> </p>
 
@@ -8,7 +13,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **asp.net**
 
 - 🤝 I’m looking for help with **Dart**
 
