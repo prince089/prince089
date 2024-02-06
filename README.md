@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **asp.net**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **Dart**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
